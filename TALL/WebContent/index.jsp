@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>Hola Tatiana Sarango, Pondraste a lavar los platos</h1>
 	<table border="1">
 		<tr>
 			<td bgcolor="red" colspan="2">Paris</td>

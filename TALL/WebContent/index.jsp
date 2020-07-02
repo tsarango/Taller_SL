@@ -7,13 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Hola Tatiana Sarango, Pondraste a lavar los platos</h1>
 	<table border="1">
 		<tr>
 			<td bgcolor="red" colspan="2">Paris</td>
 		</tr>
 		<tr>
 			<td><ol>
+			<h1>Hola Niños</h1>
 					<li>Torre Eiffel.</li>
 					<li>El Louvre.</li>
 					<li>Montmartre y la Basilica del Sacre-Coeur.</li>
